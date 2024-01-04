@@ -2,4 +2,6 @@ module github.com/kg0r0/go-jsonld-example
 
 go 1.21.4
 
-require github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73 // indirect
+require github.com/piprate/json-gold v0.5.0
+
+require github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
